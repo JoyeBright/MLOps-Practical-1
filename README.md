@@ -1,4 +1,8 @@
 # MLOps-Practical-1
 
 ## About this Repo
+<<<<<<< HEAD
 This is my first GitHub repository for the MLOps practical session.
+=======
+This is my first GitHub repository for the 1st MLOps practical session.
+>>>>>>> 7e1df0c (make changes)
